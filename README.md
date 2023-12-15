@@ -76,4 +76,14 @@ The code used to test the model is in ```infer.py```. To run the script you will
 python infer.py
 ```
 
-The script prints the mse results to the terminal and saves the results in a ```.csv``` file.   
+The script prints the mse results to the terminal and saves the results in a ```.csv``` file.     
+
+## Examples    
+
+### Clinical Dose   
+
+![alt text](https://github.com/AustinYunker/CBCT-Grand-Challenge/blob/main/imgs/ClinicalDoseExample.png?raw=true)
+
+### Low Dose   
+
+![alt text](https://github.com/AustinYunker/CBCT-Grand-Challenge/blob/main/imgs/LowDoseExample.png?raw=true)
